@@ -1,0 +1,15 @@
+{
+  "name": "pullfromphone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pull.js",
+  "scripts": {
+    "pull": "node ./pull.js",
+    "test": "node ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "std-pour": "^1.1.0"
+  }
+}
