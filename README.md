@@ -1,6 +1,6 @@
 # 将bilibili视频缓存文件从手机上复制到电脑上
 
-> 前提电脑上安装有adb nodejs
+> 前提电脑上安装有 [adb](https://blog.csdn.net/x2584179909/article/details/108319973) [nodejs](https://nodejs.org/zh-cn/download/)
 ## 首先将手机连接电脑
 ```
 adb devices
