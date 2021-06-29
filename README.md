@@ -1,5 +1,6 @@
 # 将bilibili视频缓存文件从手机上复制到电脑上
 
+> 前提电脑上安装有adb nodejs
 ## 首先将手机连接电脑
 ```
 adb devices
@@ -28,3 +29,5 @@ npm run pull
 
 ## 开始复制
 
+
+## [将bilibili安卓客户端的离线缓存转换为mp4在这里](https://github.com/bitdust/bili2mp4)
